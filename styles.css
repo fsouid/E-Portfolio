@@ -32,7 +32,8 @@ a {
   transition: opacity 300ms ease;
 }
 
-i:hover {
+.about-me__link:hover,
+.project__description--link:hover {
   opacity: 0.5;
 }
 
